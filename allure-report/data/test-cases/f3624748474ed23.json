@@ -1,0 +1,138 @@
+{
+  "uid" : "f3624748474ed23",
+  "name" : "test_searchHotel[city1]",
+  "fullName" : "test_search_hotel.Test_SearchHotel#test_searchHotel",
+  "historyId" : "5b660aa66244b2b194d1f0aeccdf7dec",
+  "time" : {
+    "start" : 1622317490107,
+    "stop" : 1622317500746,
+    "duration" : 10639
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "log_on_failure",
+    "time" : {
+      "start" : 1622317490105,
+      "stop" : 1622317490106,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "appium_driver",
+    "time" : {
+      "start" : 1622317478122,
+      "stop" : 1622317490105,
+      "duration" : 11983
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5f6964c42d75b277",
+      "name" : "log",
+      "source" : "5f6964c42d75b277.txt",
+      "type" : "text/plain",
+      "size" : 440
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "log_on_failure::0",
+    "time" : {
+      "start" : 1622317500748,
+      "stop" : 1622317500748,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "appium_driver::0",
+    "time" : {
+      "start" : 1622317500750,
+      "stop" : 1622317501608,
+      "duration" : 858
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "flaky(reruns=5)"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('log_on_failure', 'appium_driver')"
+  }, {
+    "name" : "suite",
+    "value" : "test_search_hotel"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_SearchHotel"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-1BDQC6B"
+  }, {
+    "name" : "thread",
+    "value" : "32596-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_search_hotel"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "city",
+    "value" : "['Dubai']"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "flaky(reruns=5)", "@pytest.mark.usefixtures('log_on_failure', 'appium_driver')" ]
+  },
+  "source" : "f3624748474ed23.json",
+  "parameterValues" : [ "['Dubai']" ]
+}

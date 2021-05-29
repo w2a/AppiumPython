@@ -1,0 +1,182 @@
+2021-05-29 01:04:18,948 - BasePage.py:[21] - [INFO] - Clicking on an Element hotels_ID
+2021-05-29 01:04:21,445 - BasePage.py:[21] - [INFO] - Clicking on an Element destination_ACCESSIBILITYID
+2021-05-29 01:04:41,591 - BasePage.py:[21] - [INFO] - Clicking on an Element hotels_ID
+2021-05-29 01:04:44,175 - BasePage.py:[21] - [INFO] - Clicking on an Element destination_ACCESSIBILITYID
+2021-05-29 01:05:19,697 - BasePage.py:[21] - [INFO] - Clicking on an Element hotels_ID
+2021-05-29 01:05:38,685 - BasePage.py:[21] - [INFO] - Clicking on an Element hotels_ID
+2021-05-29 01:05:41,189 - BasePage.py:[21] - [INFO] - Clicking on an Element destination_ACCESSIBILITYID
+2021-05-29 01:07:27,603 - BasePage.py:[21] - [INFO] - Clicking on an Element hotels_ID
+2021-05-29 01:07:30,259 - BasePage.py:[21] - [INFO] - Clicking on an Element destination_ACCESSIBILITYID
+2021-05-29 01:13:01,061 - BasePage.py:[21] - [INFO] - Clicking on an Element hotels_ID
+2021-05-29 01:13:03,696 - BasePage.py:[21] - [INFO] - Clicking on an Element destination_ACCESSIBILITYID
+2021-05-29 01:13:08,832 - BasePage.py:[21] - [INFO] - Clicking on an Element searchbtn_XPATH
+2021-05-29 01:14:19,017 - BasePage.py:[21] - [INFO] - Clicking on an Element hotels_ID
+2021-05-29 01:14:19,152 - BasePage.py:[21] - [INFO] - Clicking on an Element destination_ACCESSIBILITYID
+2021-05-29 01:14:22,420 - BasePage.py:[30] - [INFO] - Clicking on an Element selectlocation_IDwith index : 0
+2021-05-29 01:14:24,694 - BasePage.py:[21] - [INFO] - Clicking on an Element searchbtn_XPATH
+2021-05-29 01:14:40,067 - BasePage.py:[21] - [INFO] - Clicking on an Element hotels_ID
+2021-05-29 01:14:42,637 - BasePage.py:[21] - [INFO] - Clicking on an Element destination_ACCESSIBILITYID
+2021-05-29 01:14:45,891 - BasePage.py:[30] - [INFO] - Clicking on an Element selectlocation_IDwith index : 0
+2021-05-29 01:14:48,159 - BasePage.py:[21] - [INFO] - Clicking on an Element searchbtn_XPATH
+2021-05-29 01:15:51,421 - BasePage.py:[21] - [INFO] - Clicking on an Element hotels_ID
+2021-05-29 01:15:51,560 - BasePage.py:[21] - [INFO] - Clicking on an Element destination_ACCESSIBILITYID
+2021-05-29 01:16:39,349 - BasePage.py:[21] - [INFO] - Clicking on an Element hotels_ID
+2021-05-29 01:16:42,102 - BasePage.py:[21] - [INFO] - Clicking on an Element destination_ACCESSIBILITYID
+2021-05-29 01:16:43,219 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : ['Delhi']
+2021-05-29 01:16:44,409 - BasePage.py:[30] - [INFO] - Clicking on an Element selectlocation_IDwith index : 0
+2021-05-29 01:16:46,681 - BasePage.py:[21] - [INFO] - Clicking on an Element searchbtn_XPATH
+2021-05-29 01:17:01,260 - BasePage.py:[21] - [INFO] - Clicking on an Element hotels_ID
+2021-05-29 01:17:04,076 - BasePage.py:[21] - [INFO] - Clicking on an Element destination_ACCESSIBILITYID
+2021-05-29 01:17:05,163 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : ['Dubai']
+2021-05-29 01:17:06,284 - BasePage.py:[30] - [INFO] - Clicking on an Element selectlocation_IDwith index : 0
+2021-05-29 01:17:08,955 - BasePage.py:[21] - [INFO] - Clicking on an Element searchbtn_XPATH
+2021-05-29 01:34:23,175 - BasePage.py:[21] - [INFO] - Clicking on an Element villas_XPATH
+2021-05-29 01:34:35,727 - BasePage.py:[21] - [INFO] - Clicking on an Element area_XPATH
+2021-05-29 01:34:37,428 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : ['Delhi']
+2021-05-29 01:34:38,694 - BasePage.py:[30] - [INFO] - Clicking on an Element selectlocation_IDwith index : 0
+2021-05-29 01:34:42,474 - BasePage.py:[21] - [INFO] - Clicking on an Element fromDate_XPATH
+2021-05-29 01:34:43,626 - BasePage.py:[21] - [INFO] - Clicking on an Element toDate_XPATH
+2021-05-29 01:34:45,638 - BasePage.py:[21] - [INFO] - Clicking on an Element continue_XPATH
+2021-05-29 01:34:46,494 - BasePage.py:[21] - [INFO] - Clicking on an Element viewstays_XPATH
+2021-05-29 01:35:21,630 - BasePage.py:[21] - [INFO] - Clicking on an Element villas_XPATH
+2021-05-29 01:35:24,098 - BasePage.py:[21] - [INFO] - Clicking on an Element area_XPATH
+2021-05-29 01:35:25,894 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : ['Dubai']
+2021-05-29 01:35:27,149 - BasePage.py:[30] - [INFO] - Clicking on an Element selectlocation_IDwith index : 0
+2021-05-29 01:35:31,825 - BasePage.py:[21] - [INFO] - Clicking on an Element fromDate_XPATH
+2021-05-29 01:35:32,775 - BasePage.py:[21] - [INFO] - Clicking on an Element toDate_XPATH
+2021-05-29 01:35:34,693 - BasePage.py:[21] - [INFO] - Clicking on an Element continue_XPATH
+2021-05-29 01:35:35,673 - BasePage.py:[21] - [INFO] - Clicking on an Element viewstays_XPATH
+2021-05-29 01:39:04,087 - BasePage.py:[21] - [INFO] - Clicking on an Element villas_XPATH
+2021-05-29 01:39:15,607 - BasePage.py:[21] - [INFO] - Clicking on an Element area_XPATH
+2021-05-29 01:39:16,739 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : Delhi
+2021-05-29 01:39:17,889 - BasePage.py:[30] - [INFO] - Clicking on an Element selectlocation_IDwith index : 0
+2021-05-29 01:39:21,358 - BasePage.py:[21] - [INFO] - Clicking on an Element fromDate_XPATH
+2021-05-29 01:39:22,271 - BasePage.py:[21] - [INFO] - Clicking on an Element toDate_XPATH
+2021-05-29 01:39:24,048 - BasePage.py:[21] - [INFO] - Clicking on an Element continue_XPATH
+2021-05-29 01:39:25,008 - BasePage.py:[21] - [INFO] - Clicking on an Element viewstays_XPATH
+2021-05-29 01:39:59,119 - BasePage.py:[21] - [INFO] - Clicking on an Element villas_XPATH
+2021-05-29 01:40:01,754 - BasePage.py:[21] - [INFO] - Clicking on an Element area_XPATH
+2021-05-29 01:40:03,421 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : Dubai
+2021-05-29 01:40:04,506 - BasePage.py:[30] - [INFO] - Clicking on an Element selectlocation_IDwith index : 0
+2021-05-29 01:40:13,042 - BasePage.py:[21] - [INFO] - Clicking on an Element fromDate_XPATH
+2021-05-29 01:40:14,585 - BasePage.py:[21] - [INFO] - Clicking on an Element toDate_XPATH
+2021-05-29 01:40:16,391 - BasePage.py:[21] - [INFO] - Clicking on an Element continue_XPATH
+2021-05-29 01:40:17,735 - BasePage.py:[21] - [INFO] - Clicking on an Element viewstays_XPATH
+2021-05-29 01:43:13,824 - BasePage.py:[21] - [INFO] - Clicking on an Element hotels_ID
+2021-05-29 01:43:16,302 - BasePage.py:[21] - [INFO] - Clicking on an Element destination_ACCESSIBILITYID
+2021-05-29 01:43:18,031 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : ['Dubai']
+2021-05-29 01:43:19,207 - BasePage.py:[30] - [INFO] - Clicking on an Element selectlocation_IDwith index : 0
+2021-05-29 01:43:21,410 - BasePage.py:[21] - [INFO] - Clicking on an Element searchbtn_XPATH
+2021-05-29 01:43:36,035 - BasePage.py:[21] - [INFO] - Clicking on an Element villas_XPATH
+2021-05-29 01:43:46,659 - BasePage.py:[21] - [INFO] - Clicking on an Element area_XPATH
+2021-05-29 01:43:48,345 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : Delhi
+2021-05-29 01:43:49,474 - BasePage.py:[30] - [INFO] - Clicking on an Element selectlocation_IDwith index : 0
+2021-05-29 01:43:53,073 - BasePage.py:[21] - [INFO] - Clicking on an Element fromDate_XPATH
+2021-05-29 01:43:54,021 - BasePage.py:[21] - [INFO] - Clicking on an Element toDate_XPATH
+2021-05-29 01:43:55,957 - BasePage.py:[21] - [INFO] - Clicking on an Element continue_XPATH
+2021-05-29 01:43:56,840 - BasePage.py:[21] - [INFO] - Clicking on an Element viewstays_XPATH
+2021-05-29 01:44:31,772 - BasePage.py:[21] - [INFO] - Clicking on an Element villas_XPATH
+2021-05-29 01:44:34,226 - BasePage.py:[21] - [INFO] - Clicking on an Element area_XPATH
+2021-05-29 01:44:35,415 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : Dubai
+2021-05-29 01:44:36,469 - BasePage.py:[30] - [INFO] - Clicking on an Element selectlocation_IDwith index : 0
+2021-05-29 01:44:44,107 - BasePage.py:[21] - [INFO] - Clicking on an Element fromDate_XPATH
+2021-05-29 01:44:45,189 - BasePage.py:[21] - [INFO] - Clicking on an Element toDate_XPATH
+2021-05-29 01:45:19,160 - BasePage.py:[21] - [INFO] - Clicking on an Element hotels_ID
+2021-05-29 01:45:21,976 - BasePage.py:[21] - [INFO] - Clicking on an Element destination_ACCESSIBILITYID
+2021-05-29 01:45:23,760 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : ['Delhi']
+2021-05-29 01:45:39,186 - BasePage.py:[21] - [INFO] - Clicking on an Element hotels_ID
+2021-05-29 01:45:41,760 - BasePage.py:[21] - [INFO] - Clicking on an Element destination_ACCESSIBILITYID
+2021-05-29 01:45:43,497 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : ['Dubai']
+2021-05-29 01:45:44,634 - BasePage.py:[30] - [INFO] - Clicking on an Element selectlocation_IDwith index : 0
+2021-05-29 01:45:46,635 - BasePage.py:[21] - [INFO] - Clicking on an Element searchbtn_XPATH
+2021-05-29 01:46:05,749 - BasePage.py:[21] - [INFO] - Clicking on an Element villas_XPATH
+2021-05-29 01:46:14,216 - BasePage.py:[21] - [INFO] - Clicking on an Element area_XPATH
+2021-05-29 01:46:15,935 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : Delhi
+2021-05-29 01:46:34,530 - BasePage.py:[21] - [INFO] - Clicking on an Element villas_XPATH
+2021-05-29 01:46:41,459 - BasePage.py:[21] - [INFO] - Clicking on an Element area_XPATH
+2021-05-29 01:46:42,626 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : Dubai
+2021-05-29 01:46:43,812 - BasePage.py:[30] - [INFO] - Clicking on an Element selectlocation_IDwith index : 0
+2021-05-29 01:46:46,633 - BasePage.py:[21] - [INFO] - Clicking on an Element fromDate_XPATH
+2021-05-29 01:46:47,578 - BasePage.py:[21] - [INFO] - Clicking on an Element toDate_XPATH
+2021-05-29 01:46:49,504 - BasePage.py:[21] - [INFO] - Clicking on an Element continue_XPATH
+2021-05-29 01:46:50,350 - BasePage.py:[21] - [INFO] - Clicking on an Element viewstays_XPATH
+2021-05-29 01:48:04,407 - BasePage.py:[21] - [INFO] - Clicking on an Element hotels_ID
+2021-05-29 01:48:07,291 - BasePage.py:[21] - [INFO] - Clicking on an Element destination_ACCESSIBILITYID
+2021-05-29 01:48:08,997 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : ['Delhi']
+2021-05-29 01:48:10,292 - BasePage.py:[30] - [INFO] - Clicking on an Element selectlocation_IDwith index : 0
+2021-05-29 01:48:12,559 - BasePage.py:[21] - [INFO] - Clicking on an Element searchbtn_XPATH
+2021-05-29 01:48:30,577 - BasePage.py:[21] - [INFO] - Clicking on an Element hotels_ID
+2021-05-29 01:48:31,294 - BasePage.py:[21] - [INFO] - Clicking on an Element destination_ACCESSIBILITYID
+2021-05-29 01:48:33,097 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : ['Dubai']
+2021-05-29 01:48:34,277 - BasePage.py:[30] - [INFO] - Clicking on an Element selectlocation_IDwith index : 0
+2021-05-29 01:48:36,395 - BasePage.py:[21] - [INFO] - Clicking on an Element searchbtn_XPATH
+2021-05-29 01:49:03,610 - BasePage.py:[21] - [INFO] - Clicking on an Element villas_XPATH
+2021-05-29 01:49:12,467 - BasePage.py:[21] - [INFO] - Clicking on an Element area_XPATH
+2021-05-29 01:49:14,239 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : Delhi
+2021-05-29 01:49:15,386 - BasePage.py:[30] - [INFO] - Clicking on an Element selectlocation_IDwith index : 0
+2021-05-29 01:49:18,390 - BasePage.py:[21] - [INFO] - Clicking on an Element fromDate_XPATH
+2021-05-29 01:49:19,353 - BasePage.py:[21] - [INFO] - Clicking on an Element toDate_XPATH
+2021-05-29 01:49:21,567 - BasePage.py:[21] - [INFO] - Clicking on an Element continue_XPATH
+2021-05-29 01:49:22,449 - BasePage.py:[21] - [INFO] - Clicking on an Element viewstays_XPATH
+2021-05-29 01:50:01,966 - BasePage.py:[21] - [INFO] - Clicking on an Element villas_XPATH
+2021-05-29 01:50:04,453 - BasePage.py:[21] - [INFO] - Clicking on an Element area_XPATH
+2021-05-29 01:50:06,414 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : Dubai
+2021-05-29 01:50:07,404 - BasePage.py:[30] - [INFO] - Clicking on an Element selectlocation_IDwith index : 0
+2021-05-29 01:50:13,442 - BasePage.py:[21] - [INFO] - Clicking on an Element fromDate_XPATH
+2021-05-29 01:50:14,392 - BasePage.py:[21] - [INFO] - Clicking on an Element toDate_XPATH
+2021-05-29 01:50:16,463 - BasePage.py:[21] - [INFO] - Clicking on an Element continue_XPATH
+2021-05-29 01:50:17,523 - BasePage.py:[21] - [INFO] - Clicking on an Element viewstays_XPATH
+2021-05-29 01:57:54,452 - BasePage.py:[21] - [INFO] - Clicking on an Element hotels_ID
+2021-05-29 01:57:57,252 - BasePage.py:[21] - [INFO] - Clicking on an Element destination_ACCESSIBILITYID
+2021-05-29 01:57:58,935 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : ['Delhi']
+2021-05-29 01:58:00,674 - BasePage.py:[30] - [INFO] - Clicking on an Element selectlocation_IDwith index : 0
+2021-05-29 01:58:02,944 - BasePage.py:[21] - [INFO] - Clicking on an Element searchbtn_XPATH
+2021-05-29 01:58:18,926 - BasePage.py:[21] - [INFO] - Clicking on an Element hotels_ID
+2021-05-29 01:58:21,649 - BasePage.py:[21] - [INFO] - Clicking on an Element destination_ACCESSIBILITYID
+2021-05-29 01:58:23,380 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : ['Dubai']
+2021-05-29 01:58:24,585 - BasePage.py:[30] - [INFO] - Clicking on an Element selectlocation_IDwith index : 0
+2021-05-29 01:58:26,817 - BasePage.py:[21] - [INFO] - Clicking on an Element searchbtn_XPATH
+2021-05-29 01:58:42,339 - BasePage.py:[21] - [INFO] - Clicking on an Element villas_XPATH
+2021-05-29 01:58:53,504 - BasePage.py:[21] - [INFO] - Clicking on an Element area_XPATH
+2021-05-29 01:58:56,801 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : Delhi
+2021-05-29 01:58:57,960 - BasePage.py:[30] - [INFO] - Clicking on an Element selectlocation_IDwith index : 0
+2021-05-29 01:59:24,650 - BasePage.py:[21] - [INFO] - Clicking on an Element villas_XPATH
+2021-05-29 01:59:34,778 - BasePage.py:[21] - [INFO] - Clicking on an Element area_XPATH
+2021-05-29 01:59:36,518 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : Dubai
+2021-05-29 01:59:37,624 - BasePage.py:[30] - [INFO] - Clicking on an Element selectlocation_IDwith index : 0
+2021-05-29 01:59:40,530 - BasePage.py:[21] - [INFO] - Clicking on an Element fromDate_XPATH
+2021-05-29 01:59:41,477 - BasePage.py:[21] - [INFO] - Clicking on an Element toDate_XPATH
+2021-05-29 01:59:43,344 - BasePage.py:[21] - [INFO] - Clicking on an Element continue_XPATH
+2021-05-29 01:59:44,210 - BasePage.py:[21] - [INFO] - Clicking on an Element viewstays_XPATH
+2021-05-29 02:19:00,808 - BasePage.py:[21] - [INFO] - Clicking on an Element hotels_ID
+2021-05-29 02:19:03,340 - BasePage.py:[21] - [INFO] - Clicking on an Element destination_ACCESSIBILITYID
+2021-05-29 02:19:04,663 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : ['Delhi']
+2021-05-29 02:19:06,054 - BasePage.py:[30] - [INFO] - Clicking on an Element selectlocation_IDwith index : 0
+2021-05-29 02:19:08,052 - BasePage.py:[21] - [INFO] - Clicking on an Element searchbtn_XPATH
+2021-05-29 02:19:41,068 - BasePage.py:[21] - [INFO] - Clicking on an Element hotels_ID
+2021-05-29 02:19:43,585 - BasePage.py:[21] - [INFO] - Clicking on an Element destination_ACCESSIBILITYID
+2021-05-29 02:19:45,357 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : ['Dubai']
+2021-05-29 02:19:46,531 - BasePage.py:[30] - [INFO] - Clicking on an Element selectlocation_IDwith index : 0
+2021-05-29 02:19:48,741 - BasePage.py:[21] - [INFO] - Clicking on an Element searchbtn_XPATH
+2021-05-29 02:20:04,328 - BasePage.py:[21] - [INFO] - Clicking on an Element villas_XPATH
+2021-05-29 02:20:13,191 - BasePage.py:[21] - [INFO] - Clicking on an Element area_XPATH
+2021-05-29 02:20:14,962 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : Delhi
+2021-05-29 02:20:33,697 - BasePage.py:[21] - [INFO] - Clicking on an Element villas_XPATH
+2021-05-29 02:20:39,007 - BasePage.py:[21] - [INFO] - Clicking on an Element area_XPATH
+2021-05-29 02:20:40,779 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : Delhi
+2021-05-29 02:20:58,389 - BasePage.py:[21] - [INFO] - Clicking on an Element villas_XPATH
+2021-05-29 02:21:09,141 - BasePage.py:[21] - [INFO] - Clicking on an Element area_XPATH
+2021-05-29 02:21:10,919 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : Delhi
+2021-05-29 02:21:12,328 - BasePage.py:[30] - [INFO] - Clicking on an Element selectlocation_IDwith index : 0
+2021-05-29 02:21:15,196 - BasePage.py:[21] - [INFO] - Clicking on an Element fromDate_XPATH
+2021-05-29 02:21:16,182 - BasePage.py:[21] - [INFO] - Clicking on an Element toDate_XPATH
+2021-05-29 02:21:18,341 - BasePage.py:[21] - [INFO] - Clicking on an Element continue_XPATH
+2021-05-29 02:21:19,249 - BasePage.py:[21] - [INFO] - Clicking on an Element viewstays_XPATH
+2021-05-29 02:22:19,264 - BasePage.py:[21] - [INFO] - Clicking on an Element villas_XPATH
+2021-05-29 02:22:27,410 - BasePage.py:[21] - [INFO] - Clicking on an Element area_XPATH
+2021-05-29 02:22:29,182 - BasePage.py:[39] - [INFO] - Typing in an Element searchtext_ID entered the value as : Dubai
+2021-05-29 02:22:30,421 - BasePage.py:[30] - [INFO] - Clicking on an Element selectlocation_IDwith index : 0
+2021-05-29 02:22:38,003 - BasePage.py:[21] - [INFO] - Clicking on an Element fromDate_XPATH
+2021-05-29 02:22:38,962 - BasePage.py:[21] - [INFO] - Clicking on an Element toDate_XPATH
+2021-05-29 02:22:41,083 - BasePage.py:[21] - [INFO] - Clicking on an Element continue_XPATH
+2021-05-29 02:22:42,157 - BasePage.py:[21] - [INFO] - Clicking on an Element viewstays_XPATH
