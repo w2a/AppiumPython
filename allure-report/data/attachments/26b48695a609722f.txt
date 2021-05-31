@@ -1,8 +1,0 @@
-INFO     Pages.BasePage:BasePage.py:21 Clicking on an Element villas_XPATH
-INFO     Pages.BasePage:BasePage.py:21 Clicking on an Element area_XPATH
-INFO     Pages.BasePage:BasePage.py:39 Typing in an Element searchtext_ID entered the value as : Delhi
-INFO     Pages.BasePage:BasePage.py:30 Clicking on an Element selectlocation_IDwith index : 0
-INFO     Pages.BasePage:BasePage.py:21 Clicking on an Element fromDate_XPATH
-INFO     Pages.BasePage:BasePage.py:21 Clicking on an Element toDate_XPATH
-INFO     Pages.BasePage:BasePage.py:21 Clicking on an Element continue_XPATH
-INFO     Pages.BasePage:BasePage.py:21 Clicking on an Element viewstays_XPATH

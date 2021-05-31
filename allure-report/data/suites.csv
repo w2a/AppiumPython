@@ -1,5 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sun May 30 01:17:15 IST 2021","Sun May 30 01:17:51 IST 2021","35102","","test_search_villas","Test_SearchVilla","","","test_searchVilla[Dubai-Savoy Suites Hotel Apartment]",""
-"passed","Sun May 30 01:14:50 IST 2021","Sun May 30 01:15:00 IST 2021","10639","","test_search_hotel","Test_SearchHotel","","","test_searchHotel[city1]",""
-"passed","Sun May 30 01:15:14 IST 2021","Sun May 30 01:15:46 IST 2021","31856","","test_search_villas","Test_SearchVilla","","","test_searchVilla[Delhi-Shubham Vilas]",""
-"passed","Sun May 30 01:14:27 IST 2021","Sun May 30 01:14:37 IST 2021","9789","","test_search_hotel","Test_SearchHotel","","","test_searchHotel[city0]",""
